@@ -7,3 +7,6 @@ Luego de esto, la app escogerá al azar y entregará un único nombre de todos l
 - Desarrollo del proyecto:
 
 Paso 1: Se declara una variable de tipo array (arreglo o lista), que almacenará los nombres de los amigos y amigas ingresados en la app.
+    let nombres = [];
+
+Paso 2: Se crea la función "agregarAmigo"
