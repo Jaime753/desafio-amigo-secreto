@@ -60,3 +60,5 @@ let listaUl = document.getElementById('listaAmigos');
 listaUl.appendChild(nuevoNombre); //agrega el nuevo nombre la lista <ul>
 }
 
+// función para informar el nombre del amigo secreto
+//El amigo secreto sorteado es: "nombre"

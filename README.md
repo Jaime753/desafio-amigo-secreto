@@ -16,10 +16,4 @@ Dentro del bloque de la función agregarAmigo() se encuentran estas otras funcio
 
 a.- La función limpiarcaja() se encarga de limpiar la caja "Escribe un nombre" cada vez que se ingresa un nuevo amigo.
 
-b.- La función agregarAListaUl() se encarga de crear un nuevo elemento de lista (<li>) y agregarlo a la lista 
-desordenada (<ul>) con el ID "listaAmigos".
-
-Cada vez que se llama a la función agregarAListaUl() con un nuevo elemento, se crea un nuevo <li> y se agrega al final de la lista.
-
-Esto hará que los elementos se muestren uno debajo del otro a medida 
-que se van agregando.
+b.- La función agregarAListaUl() se encarga de crear un nuevo elemento de lista (<li>) y agregarlo a la lista desordenada (<ul>) con el id "listaAmigos". Cada vez que se llama a la función agregarAlistaUl() con un nuevo elemento, se crea un nuevo <li> y se agrega al final de la lista, lo que hace que los elementos se muestren uno debajo del otro a medida que se van agregando.
