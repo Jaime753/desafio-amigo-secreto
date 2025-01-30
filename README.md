@@ -19,3 +19,5 @@ a.- La función limpiarcaja() se encarga de limpiar la caja "Escribe un nombre" 
 b.- La función agregarAListaUl() se encarga de crear un nuevo elemento de lista "li" y agregarlo a la lista desordenada "ul" con el id "listaAmigos". 
 
 Cada vez que se llama a la función agregarAlistaUl() con un nuevo elemento, se crea un nuevo "li" y se agrega al final de la lista, lo que hace que los elementos se muestren uno debajo del otro a medida que se van agregando.
+
+También se agraga un "alert" para indicar que se ingreso un nombre vacio, si ese es el caso.
